@@ -15,7 +15,6 @@ alt="zusier" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, Python and more.**
 
--
  👨‍💻 All of my projects are available at 
 [https://github.com/Zusier?tab=repositories](https://github.com/Zusier?tab=repositories)
 
@@ -98,5 +97,3 @@ src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original
 <p>&nbsp;<img align="center" 
 src="https://github-readme-stats.vercel.app/api?username=zusier&show_icons=true&locale=en"
  alt="zusier" /></p>
-
-
