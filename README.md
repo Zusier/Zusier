@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zusier" alt="zusier" /></a> </p>
 
-- 🔭 I’m currently working on [Zusier's Optimization Batch](https://github.com/Zusier/Zusiers-optimization-Batch)
+- 🔭 I’m currently working on [AtlasOS](https://github.com/Atlas-OS/Atlas)
 
 - 🌱 I’m currently learning **Javascript, Python and more.**
 
