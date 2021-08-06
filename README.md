@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zusier?tab=repositories](https://github.com/Zusier?tab=repositories)
 
-- 📫 How to reach me **zusier@pm.me**
+- 📫 How to reach me **zusier/disroot.org** (replace / with @)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
