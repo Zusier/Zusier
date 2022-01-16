@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AtlasOS](https://github.com/Atlas-OS/Atlas)
 
-- 🌱 I’m currently learning **Javascript, Python and more.**
+- 🌱 I’m currently learning Rust.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zusier?tab=repositories](https://github.com/Zusier?tab=repositories)
 
