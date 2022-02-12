@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zusier" alt="zusier" /></a> </p>
 
-- 🔭 I’m currently working on [AtlasOS](https://github.com/Atlas-OS/Atlas)
+- 🔭 I’m currently working on [AtlasOS](https://github.com/Atlas-OS/Atlas).
 
 - 🌱 I’m currently learning **Rust**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zusier?tab=repositories](https://github.com/Zusier?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Zusier?tab=repositories).
 
 - 📫 How to reach me **zusier/disroot.org** (replace / with @)
 
